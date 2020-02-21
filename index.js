@@ -5,4 +5,6 @@
   *
   * @module Sequelize
   */
+
+console.log(`test`)
 module.exports = require('./lib/sequelize');
