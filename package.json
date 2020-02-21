@@ -150,7 +150,7 @@
     "*.js": "eslint"
   },
   "main": "index.js",
-  "name": "sequelize",
+  "name": "sequelize-mssql",
   "options": {
     "env_cmd": "./test/config/.docker.env"
   },
