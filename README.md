@@ -1,3 +1,5 @@
+after changes update package in project with `npm install sequelize`
+
 # Sequelize
 
 [![npm version](https://badgen.net/npm/v/sequelize)](https://www.npmjs.com/package/sequelize)
